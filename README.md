@@ -1,6 +1,7 @@
 # State management excercise
 
-On this excercise you will build simple state management mechanism. The mechanism should functions the same as the familiar state-management solutions you in the industry.
+On this excercise you will build simple state management mechanism. 
+The mechanism should functions the same as the familiar state-management solutions in the industry.
 Every change should be reflected globally on a single store and each component that subscribe to the changes will get the new state reactively. 
 Your mechansim should support the following operations:
 
